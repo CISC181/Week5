@@ -11,5 +11,8 @@ public class CMain {
 		
 		// Planet p1 = new Planet(); <<- you can't do this!  You can't create an instance of an enum.		
 		
+		int count = 5; 
+		double amount = 45.56; 
+		System.out.printf("count is %d and amount is %f", count, amount); 
 	}
 }
